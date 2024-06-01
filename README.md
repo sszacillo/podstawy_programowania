@@ -1,1 +1,1 @@
-# podstawy_programowania
+# Praktyka_programowania
